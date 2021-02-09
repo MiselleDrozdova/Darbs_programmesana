@@ -9,7 +9,7 @@ print(5+6)
 #3)Èeròevièa Letîcija Lîna
 
 #4)Drozdova Miðelle
-(5**2)
+print(5**2)
 #5)Karlinskis Renârs
 
 #6)Lukjanskis Miks Patriks
